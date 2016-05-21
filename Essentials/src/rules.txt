@@ -1,3 +1,9 @@
-[1] Be respectful
-[2] Be ethical
-[3] Use common sense
+&31) Griefing and trolling is not allowed.
+&32) You may not use forbiddean color codes! (&.k, &.m, &.n)
+&33) You may not advertize more than once.
+&34) Our server is cracked, which means you can login with any name you want, however: Using administrator's name is not allowed.
+&35) You may not use trollish potions.
+&36) You may not harm the server.
+&37) You may not spam.
+&38) Do not ask to become an admin, do /ai instead.
+&39) If you see a rule breaker, you should report him on the forum!
