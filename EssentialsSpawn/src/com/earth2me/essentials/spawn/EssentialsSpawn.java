@@ -28,7 +28,7 @@ public class EssentialsSpawn extends JavaPlugin implements IEssentialsSpawn
 	public void onEnable()
 	{
 		final PluginManager pluginManager = getServer().getPluginManager();
-		ess = (IEssentials)pluginManager.getPlugin("Essentials");
+		ess = (IEssentials)pluginManager.getPlugin("UMC-Essentials");
 		if (!this.getDescription().getVersion().equals(ess.getDescription().getVersion()))
 		{
 			LOGGER.log(Level.WARNING, tl("versionMismatchAll"));
